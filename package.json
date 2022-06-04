@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Yoan Estrada Blanco",
+  "description": "Este projecto es fruto del aprendizaje de backend en freecodecamp",
   "dependencies": {
     "express": "^4.14.0"
   },
